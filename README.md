@@ -146,6 +146,3 @@ After completing and documenting the lab, the Azure resources created for testin
 
 The screenshots in this repository preserve evidence of the governance configuration, policy enforcement tests, remediation process, and successful deployment.
 
-## Interview Talking Point
-
-> I built an Azure governance lab using Management Groups, RBAC, and Azure Policy. I configured governance controls for approved VM sizes and required CostCenter tagging, then intentionally tested non-compliant deployments to verify that the policies were enforced. Azure blocked the deployments that did not meet the requirements, so I reviewed the policy errors, corrected the VM configuration, and successfully redeployed a compliant resource. I also verified the RBAC assignment and required resource tag. This gave me practical experience with preventive governance, least-privilege access, policy troubleshooting, and compliance validation in Azure.
