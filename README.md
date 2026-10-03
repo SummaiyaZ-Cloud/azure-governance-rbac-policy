@@ -124,7 +124,7 @@ I reviewed the policy-related deployment errors, corrected the VM configuration 
 
 The final deployment and resource tags were then reviewed in the Azure Portal to verify that the corrected configuration met the lab's governance requirements.
 
-## What I Learned
+## Skills Demonstrated
 
 Through this project, I gained hands-on experience with:
 
@@ -139,10 +139,3 @@ Through this project, I gained hands-on experience with:
 - Troubleshooting policy-denied deployments
 - Remediating configuration issues
 - Validating successful resource deployment and tagging
-
-## Resource Cleanup
-
-After completing and documenting the lab, the Azure resources created for testing were deleted to prevent unnecessary cloud charges.
-
-The screenshots in this repository preserve evidence of the governance configuration, policy enforcement tests, remediation process, and successful deployment.
-
